@@ -15,11 +15,11 @@ function Contact() {
                             </div>
                             <div >
                                 <i className="fa-solid fa-envelope me-2 text-white"></i>
-                                <span className='ms-2 text-white'>athulyamol1225@gmail.com</span>
+                                <span className='ms-2 text-white'>athulyamol2255@gmail.com</span>
                             </div>
                        </div>
                     </div>
-                    <div className="col-lg-5 pt-3 ms-lg-0 ms-4">
+                    <div className="col-lg-5 pt-3 ms-lg-0 ms-4 ps-4">
                         <div className='d-flex align-items-center justify-content-lg-center justify-content-start '>
                             <Link  to='https://www.linkedin.com/in/athulyamol-p-l-897982259/'><i className="fa-brands fa-linkedin text-white fs-3"></i></Link>
                             <i className="fa-brands fa-github text-white fs-3 mx-3"></i>

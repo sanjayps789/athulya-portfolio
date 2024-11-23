@@ -20,7 +20,7 @@ function Profile() {
                                      target='_blank'
                                       href='https://drive.google.com/file/d/1Sz2mghxfcCxvT7R2Y8lFIbBfjANrTI1T/view?usp=sharing'
                                        variant="light" className='px-5 fw-bold py-2 text-uppercase'>Download CV</Button>
-                                    <i className="fa-brands fa-linkedin fs-1 ps-lg-5 ps-3  text-white"></i>
+                                    <i style={{ fontSize: '45px' }} className="fa-brands fa-linkedin  ps-lg-5 ps-3  text-white"></i>
                                 </div>
                         </div>
                     </div>

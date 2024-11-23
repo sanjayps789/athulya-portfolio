@@ -4,7 +4,7 @@ function About() {
     return (
         <div  id='about' style={{minHeight:'90vh',background:'linear-gradient(to right, black , #34393c 80%)' }} className=' d-flex align-items-center justify-content-center w-100'>
 
-            <div style={{width:'90%'}} className='container'>
+            <div style={{width:'90%'}} className='container d-flex align-items-center justify-content-center'>
                 <div  className="row w-100 d-flex align-items-center justify-content-center">
                     <h1 className='text-white fw-bold text-center py-4'>About Me</h1>
                     <div className="col-lg-8">
