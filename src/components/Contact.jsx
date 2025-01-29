@@ -19,10 +19,10 @@ function Contact() {
                             </div>
                        </div>
                     </div>
-                    <div className="col-lg-5 pt-3 ms-lg-0 ms-4 ps-4">
+                    <div className="col-lg-5 pt-3 ms-lg-0 ms-3 ps-4">
                         <div className='d-flex align-items-center justify-content-lg-center justify-content-start '>
                             <Link  to='https://www.linkedin.com/in/athulyamol-p-l-897982259/'><i className="fa-brands fa-linkedin text-white fs-3"></i></Link>
-                            <i className="fa-brands fa-github text-white fs-3 mx-3"></i>
+                            <i className="fa-brands fa-facebook text-white fs-3 mx-3"></i>
                             <i className="fa-brands fa-instagram text-white fs-3"></i>
                         </div>
                     </div>
