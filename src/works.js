@@ -19,15 +19,28 @@ const works = [
     },
     {
         id: 4,
-        title: "Boche Club",
-        url: "https://bocheclub.com/",
-        image:"https://i.postimg.cc/q7yNkp8W/boche.png"
-    },
-    {
-        id: 5,
         title: "Fragrance Shop",
         url: "https://drive.google.com/file/d/12kiGk65sFXb96KA8CFeuGYD-aGy8P6QY/view?usp=sharing",
         image:"https://i.postimg.cc/RhVhQfjz/fragrance.png"
+    },
+    {
+        id: 5,
+        title: "ReachOut",
+        url: "https://play.google.com/store/apps/details?id=in.reachout_mobile",
+        image:"../src/assets/reachout.png"
+    },
+    {
+        id: 5,
+        title: "VoxBridge Academy",
+        url: "https://voxbridgeacademy.com",
+        image:"../src/assets/Voxbridge.png"
+    },
+   
+    {
+        id: 7,
+        title: "ReachOut Corporate",
+        url: "https://play.google.com/store/apps/details?id=com.reachoutAlpha.corporatemobile",
+        image:"../src/assets/reachout-co-app.png"
     }
 ]
 

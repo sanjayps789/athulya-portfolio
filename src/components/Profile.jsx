@@ -18,9 +18,13 @@ function Profile() {
                             <div className="d-flex justify-content-start   align-items-center">
                                     <Button 
                                      target='_blank'
-                                      href='https://drive.google.com/file/d/1Sz2mghxfcCxvT7R2Y8lFIbBfjANrTI1T/view?usp=sharing'
+                                      href='https://drive.google.com/drive/folders/1oXOQakz7y6kiU58i-CGNpgy7NphzzJQc'
                                        variant="light" className='px-5 fw-bold py-2 text-uppercase'>Download CV</Button>
-                                    <i style={{ fontSize: '45px' }} className="fa-brands fa-linkedin  ps-lg-5 ps-3  text-white"></i>
+                                   <Link target='_blank' to='http://www.linkedin.com/in/athulyamol-p-l-897982259'> <i style={{ fontSize: '45px' }} className="fa-brands fa-linkedin  ps-lg-5 ps-3  text-white"></i></Link>
+                                    <Link target='_blank' to={'https://www.figma.com/design/qlpk2SObfSQKGsagzA11t6/ATHULYAMOL---WORKS?t=IbzxbWSNLdj5YYPl-0'}  style={{ fontSize: '38px' }}>
+                                        <i  style={{ fontSize: '33px' }} className="fa-brands fa-figma fw-bold ms-lg-3 px-2 py-1 rounded-2 text-dark bg-white"></i>
+                                        </Link>
+                                    <Link target='_blank' to='https://www.behance.net/athulyamolpl'><i style={{ fontSize: '45px' }} className="fa-brands fa-behance-square  ps-lg-4 ps-3   text-white"></i></Link>
                                 </div>
                         </div>
                     </div>
