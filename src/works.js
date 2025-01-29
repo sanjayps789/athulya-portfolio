@@ -27,20 +27,20 @@ const works = [
         id: 5,
         title: "ReachOut",
         url: "https://play.google.com/store/apps/details?id=in.reachout_mobile",
-        image:"/src/assets/reachout.png"
+        image:"https://i.postimg.cc/Qdw4tc0z/reachout.png"
     },
     {
-        id: 5,
+        id: 6,
         title: "VoxBridge Academy",
         url: "https://voxbridgeacademy.com",
-        image:"/src/assets/Voxbridge.png"
+        image:"https://i.postimg.cc/28H9ssvr/Voxbridge.png"
     },
    
     {
         id: 7,
         title: "ReachOut Corporate",
         url: "https://play.google.com/store/apps/details?id=com.reachoutAlpha.corporatemobile",
-        image:"/src/assets/reachout-co-app.png"
+        image:"https://i.postimg.cc/02Nc0V43/reachout-co-app.png"
     }
 ]
 
